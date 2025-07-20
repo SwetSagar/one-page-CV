@@ -1,5 +1,5 @@
 # one-page-CV
-One page CV project for roadmap.sh
+One page CV project from roadmap.sh
 
 ## Page URL
 https://roadmap.sh/projects/single-page-cv
